@@ -1,0 +1,69 @@
+.Dropdown
+{
+
+    width:350px;
+    height:320px;
+    overflow-wrap: break-word;
+    display:flex;
+    padding-top:2.2em;
+    padding-left:2.6em;
+    padding-right:1.9em;
+    flex-wrap:wrap;
+    background-color: rgba(0, 0, 0, 0.988);
+    border-radius: 28px;
+    margin-left:2em;
+   
+    
+   
+}
+.Dropdown p{
+    color:white;
+    display:flex;
+    flex-direction:column;
+    text-align: center;
+    width:100px;
+    height:80px;
+    padding-right:0.7em;
+ 
+}
+
+
+.temp-time
+{
+    
+    font-weight: bold;
+    position:relative;
+    top:-8.5em;
+    
+   
+   
+}
+
+
+.temp-description
+{
+  position:relative;
+  top:-1.7em;
+
+}
+
+.temp-temperature
+{
+    position:relative;
+    top:-0.7em;
+}
+
+
+
+
+select
+{
+    position: absolute;
+    left:27.9em;
+    top:24.5em;
+    border-radius:25px;
+    text-indent:7px;
+    
+}
+
+
